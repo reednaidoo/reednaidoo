@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reed_naidoo.svg?style=social)](https://x.com/reed_naidoo)  
 
 
-I am a PhD student at the [Insitute of Cancer Research](https://www.icr.ac.uk/). Under the supervision of [Professor Chris Bakal](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal), I am researching multimodal AI for predicting cancer patients' diagnosis and treatment response. My PhD is part of the NIHR BRC [Studentship]([https://mach3cancer.org/](https://www.maudsleybrc.nihr.ac.uk/academic-career-development/current-opportunities/phd-studentships-2023/)) award. 
+I am a PhD student at the [Insitute of Cancer Research](https://www.icr.ac.uk/). Under the supervision of [Professor Chris Bakal](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal), I am researching multimodal AI for predicting cancer patients' diagnosis and treatment response. My PhD is part of the NIHR BRC [Studentship]([https://mach3cancer.org/](https://www.maudsleybrc.nihr.ac.uk/academic-career-development/current-opportunities/phd-studentships-2023/) award. 
 
 Reach out to collaborate! 
 
