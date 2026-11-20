@@ -54,7 +54,7 @@ My PhD is funded by an [NIHR BRC Studentship](https://www.maudsleybrc.nihr.ac.uk
 
 <sub>Full list on <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar</a>.</sub>
 
-<img src="https://img.shields.io/badge/NeurIPS-2026-47308C?style=flat-square" alt="NeurIPS 2026" /> &nbsp;**Biological Graph Priors Enable Representation Learning for Cellular Microscopy**<br />
+<img src="https://img.shields.io/badge/NeurIPS-2026-47308C?style=flat-square" alt="NeurIPS 2026" /> &nbsp;**Coming Soon**<br />
 <sub>**R. Naidoo** et al.</sub><br />
 <sub>`Coming soon`</sub>
 
