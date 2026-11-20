@@ -22,17 +22,6 @@ My PhD is funded by an [NIHR BRC Studentship](https://www.maudsleybrc.nihr.ac.uk
 
 <br />
 
-### News
-
-| | |
-|:--|:--|
-| `Sep 2026` | **NOVA** accepted at **NeurIPS 2026**. Paper and code coming soon. |
-| `Sep 2026` | Shortlisted for BioUK Emerging Entrepreneur of the Year. |
-| `Jul 2026` | Presented **PhenoSeq** at the ICML 2026 FM4LS workshop. Code and weights are public. |
-| `Oct 2025` | **FORM** preprint released on [arXiv](https://arxiv.org/abs/2510.21337). |
-| `Oct 2025` | Interpretable point cloud MIL paper presented at **ICCV 2025**. |
-
-<br />
 
 ### Research
 
@@ -46,8 +35,8 @@ My PhD is funded by an [NIHR BRC Studentship](https://www.maudsleybrc.nihr.ac.uk
 </td>
 <td width="33%" valign="top">
 
-**Biologically grounded representations**<br />
-<sub>Self-supervised microscopy models regularised with prior knowledge of protein complexes and pathways.</sub>
+**Coming soon**<br />
+<sub>Coming soon.</sub>
 
 </td>
 <td width="33%" valign="top">
