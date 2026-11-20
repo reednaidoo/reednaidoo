@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Reed Naidoo. Generative models for 3D cell morphology and perturbation." width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" alt="Reed Naidoo. Generative models for 3D cell morphology and perturbation." width="100%" />
+</picture>
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google_Scholar-47308C?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/0009-0004-7519-197X"><img src="https://img.shields.io/badge/ORCID-0009--0004--7519--197X-08090D?style=flat-square&logo=orcid&logoColor=A4C027" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/reed-naidoo-02329a223/"><img src="https://img.shields.io/badge/LinkedIn-08090D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/Sentinal4D"><img src="https://img.shields.io/badge/Hugging_Face-Sentinal4D-08090D?style=flat-square&logo=huggingface&logoColor=F2A7DE" alt="Hugging Face" /></a>
-  <a href="https://www.sentinal4d.com"><img src="https://img.shields.io/badge/Sentinal4D-sentinal4d.com-A4C027?style=flat-square&labelColor=08090D" alt="Sentinal4D" /></a>
-</p>
+[ORCID](https://orcid.org/0009-0004-7519-197X) · [LinkedIn](https://www.linkedin.com/in/reed-naidoo-02329a223/) · [Hugging Face](https://huggingface.co/Sentinal4D) · [Sentinal4D](https://www.sentinal4d.com)
 
-<br />
-
-### About
+## About
 
 I am a PhD researcher at [The Institute of Cancer Research](https://www.icr.ac.uk/) in [Professor Chris Bakal's](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-chris-bakal) Dynamical Cell Systems lab, and a Research Scientist at [Sentinal4D](https://www.sentinal4d.com), an ICR spin-out building predictive models of living cells for drug discovery.
 
@@ -20,83 +13,37 @@ My work starts from a simple idea: **cell shape is a functional readout, not jus
 
 My PhD is funded by an [NIHR BRC Studentship](https://www.maudsleybrc.nihr.ac.uk/). Previously I studied mathematical statistics in South Africa and completed an MSc in Data Science at the University of Bath.
 
-<br />
+## Research
 
+- **Generative virtual cells.** Diffusion models that simulate how 3D cell morphology changes under perturbation, and what those changes reveal about mechanism.
+- **Cross-modal translation.** Linking cell images to transcriptomics and other modalities, so imaging can stand in for costlier assays.
+- **Coming soon.**
 
-### Research
+## Publications
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**2026**
 
-**Generative virtual cells**<br />
-<sub>Diffusion models that simulate how 3D cell morphology changes under perturbation, and what those changes reveal about mechanism.</sub>
+- **Coming soon.** <br /> **R. Naidoo** et al. *NeurIPS 2026.*
+- **Cell Painting Generates Single-Cell Transcriptomics via Conditional Diffusion.** <br /> **R. Naidoo**, J. Hu, G. Tripodi, C. Bakal, T. Chakraborti. *ICML 2026 Workshop on Foundation Models for Life Sciences.* <br /> [Paper](https://openreview.net/forum?id=ACHMa1e8J1) · [Code](https://github.com/reednaidoo/PhenoSeq) · [Model](https://huggingface.co/Sentinal4D/PhenoSeq)
 
-</td>
-<td width="33%" valign="top">
+**2025**
 
-**Coming soon**<br />
-<sub>Coming soon.</sub>
+- **Morphologically Intelligent Perturbation Prediction with FORM.** <br /> **R. Naidoo**, M. De Vries, O. Fourkioti, V. Bousgouni, M. Arias-Garcia, M. Portillo-Malumbres, C. Bakal. *arXiv preprint.* <br /> [Paper](https://arxiv.org/abs/2510.21337)
+- **Interpretable Point Cloud Classification Using Multiple Instance Learning.** <br /> M. De Vries, **R. Naidoo**, O. Fourkioti, L. G. Dent, N. Curry, C. Dunsby, C. Bakal. *ICCV 2025.* <br /> [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/De_Vries_Interpretable_point_cloud_classification_using_multiple_instance_learning_ICCV_2025_paper.html)
+- **Geometric Deep Learning and Multiple-Instance Learning for 3D Cell-Shape Profiling.** <br /> M. De Vries, L. G. Dent, N. Curry, L. Rowe-Brown, V. Bousgouni, O. Fourkioti, **R. Naidoo**, H. Sparks, A. Tyson, C. Dunsby, C. Bakal. *Cell Systems.* <br /> [Paper](https://repository.icr.ac.uk/items/376ed8e5-66c7-4a4a-8255-8bc8ae187b46)
 
-</td>
-<td width="33%" valign="top">
+**2024**
 
-**Cross-modal translation**<br />
-<sub>Linking cell images to transcriptomics and other modalities, so imaging can stand in for costlier assays.</sub>
+- **SurvivMIL: A Multimodal, Multiple Instance Learning Pipeline for Survival Outcome of Neuroblastoma Patients.** <br /> **R. Naidoo**, O. Fourkioti, M. De Vries, C. Bakal. *MICCAI 2024 Workshop on Computational Pathology (PMLR 254).* <br /> [Paper](https://proceedings.mlr.press/v254/naidoo24a.html)
+- **Interpretable Phenotypic Profiling of 3D Cellular Morphodynamics.** <br /> M. De Vries, **R. Naidoo**, O. Fourkioti, L. G. Dent, N. Curry, C. Dunsby, C. Bakal. *MICCAI 2024.* <br /> [Paper](https://papers.miccai.org/miccai-2024/418-Paper3839.html)
 
-</td>
-</tr>
-</table>
-
-<br />
-
-### Publications
-
-<sub>Full list on <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar</a>.</sub>
-
-<img src="https://img.shields.io/badge/NeurIPS-2026-47308C?style=flat-square" alt="NeurIPS 2026" /> &nbsp;**Coming Soon**<br />
-<sub>**R. Naidoo** et al.</sub><br />
-<sub>`Coming soon`</sub>
-
-<img src="https://img.shields.io/badge/ICML_Workshop-2026-47308C?style=flat-square" alt="ICML 2026 Workshop" /> &nbsp;**Cell Painting Generates Single-Cell Transcriptomics via Conditional Diffusion**<br />
-<sub>**R. Naidoo**, J. Hu, G. Tripodi, C. Bakal, T. Chakraborti. *ICML 2026 Workshop on Foundation Models for Life Sciences (FM4LS)*</sub><br />
-<sub>[Paper](https://openreview.net/forum?id=ACHMa1e8J1) · [Code](https://github.com/reednaidoo/PhenoSeq) · [Model](https://huggingface.co/Sentinal4D/PhenoSeq)</sub>
-
-<img src="https://img.shields.io/badge/arXiv-2025-08090D?style=flat-square" alt="arXiv 2025" /> &nbsp;**Morphologically Intelligent Perturbation Prediction with FORM**<br />
-<sub>**R. Naidoo**, M. De Vries, O. Fourkioti, V. Bousgouni, M. Arias-Garcia, M. Portillo-Malumbres, C. Bakal</sub><br />
-<sub>[Paper](https://arxiv.org/abs/2510.21337)</sub>
-
-<img src="https://img.shields.io/badge/ICCV-2025-47308C?style=flat-square" alt="ICCV 2025" /> &nbsp;**Interpretable Point Cloud Classification Using Multiple Instance Learning**<br />
-<sub>M. De Vries, **R. Naidoo**, O. Fourkioti, L. G. Dent, N. Curry, C. Dunsby, C. Bakal</sub><br />
-<sub>[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/De_Vries_Interpretable_point_cloud_classification_using_multiple_instance_learning_ICCV_2025_paper.html)</sub>
-
-<img src="https://img.shields.io/badge/Cell_Systems-2025-A4C027?style=flat-square&labelColor=08090D" alt="Cell Systems 2025" /> &nbsp;**Geometric Deep Learning and Multiple-Instance Learning for 3D Cell-Shape Profiling**<br />
-<sub>M. De Vries, L. G. Dent, N. Curry, L. Rowe-Brown, V. Bousgouni, O. Fourkioti, **R. Naidoo**, H. Sparks, A. Tyson, C. Dunsby, C. Bakal</sub><br />
-<sub>[Paper](https://repository.icr.ac.uk/items/376ed8e5-66c7-4a4a-8255-8bc8ae187b46)</sub>
-
-<img src="https://img.shields.io/badge/MICCAI-2024-47308C?style=flat-square" alt="MICCAI 2024" /> &nbsp;**Interpretable Phenotypic Profiling of 3D Cellular Morphodynamics**<br />
-<sub>M. De Vries, **R. Naidoo**, O. Fourkioti, L. G. Dent, N. Curry, C. Dunsby, C. Bakal</sub><br />
-<sub>[Paper](https://papers.miccai.org/miccai-2024/418-Paper3839.html) · [DOI](https://doi.org/10.1007/978-3-031-72117-5_45)</sub>
-
-<br />
-
-### Code and models
+## Code and models
 
 | Project | Description | Links |
 |:--|:--|:--|
 | **PhenoSeq** | Conditional diffusion model that generates single-cell transcriptomic (scGPT) embeddings from Cell Painting features | [GitHub](https://github.com/reednaidoo/PhenoSeq) · [Hugging Face](https://huggingface.co/Sentinal4D/PhenoSeq) |
-| **NOVA** | Vector-quantised transformer for microscopy with biological graph priors | `Coming soon` |
-
-<br />
-
-### Toolkit
-
-<sub>PyTorch · Lightning · Diffusion and flow models · Vision transformers · Geometric deep learning · Google Cloud · 3D and time-lapse microscopy</sub>
-
-<br />
+| **NOVA** | Vector-quantised transformer for microscopy with biological graph priors | Coming soon |
 
 ---
 
-<p align="center">
-  <sub>London, UK · Open to collaborations at the interface of machine learning and cell biology · <a href="https://www.linkedin.com/in/reed-naidoo-02329a223/">Get in touch</a></sub>
-</p>
+<sub>London, UK · Open to collaborations at the interface of machine learning and cell biology · [Get in touch](https://www.linkedin.com/in/reed-naidoo-02329a223/)</sub>
